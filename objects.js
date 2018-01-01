@@ -1,4 +1,5 @@
 var playlist = {
   maxwell: 'Pretty Wings',
-  sting: 'Red Dress'
+  sting: 'Roxanne',
+  "cindy lauper"
 }
