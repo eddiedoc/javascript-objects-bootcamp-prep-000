@@ -1,4 +1,4 @@
-object playlist = {
+var playlist = {
   maxwell: 'Pretty Wings',
   sting: 'Roxanne',
   "cindy lauper": 'Girls just wanna have fun'
